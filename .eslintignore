@@ -1,0 +1,7 @@
+../eslint_checker/**
+../lib/**
+*.png
+*.html
+*.json
+*.css
+*.md

@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "eslint": "^6.0.1"
+  },
+  "scripts": {
+    "check":"eslint -c ./.eslintrc.js ../**",
+    "check_and_fix":"eslint ./.eslintrc.js ../** --fix"
+  }
+}
