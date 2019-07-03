@@ -4,6 +4,6 @@
   },
   "scripts": {
     "check":"eslint -c ./.eslintrc.js ../**",
-    "check_and_fix":"eslint ./.eslintrc.js ../** --fix"
+    "check_and_fix":"eslint -c ./.eslintrc.js ../** --fix"
   }
 }
